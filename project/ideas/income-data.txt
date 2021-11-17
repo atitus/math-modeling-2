@@ -1,0 +1,7 @@
+Population (%)	Income (%) for Perfect Equality	Income (%) for Sample Economy
+0	0	0
+20	20	12
+40	40	28
+60	60	48
+80	80	72
+100	100	100
